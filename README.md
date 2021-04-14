@@ -1,6 +1,6 @@
 # Cloud Formation Templates for Deploying Fargate Tasks in a VPC on a Public Subnet.
 
-## I have build the below architecture using CloudFormation Templates
+## I have built the below architecture using CloudFormation Templates
 ![11-ecs-cfn-public-vpc-public-subnet](https://user-images.githubusercontent.com/23433121/114659950-77a7b480-9cc2-11eb-81c8-e64ee6738ef0.png)
 
 ## Step-00: Template Categories
